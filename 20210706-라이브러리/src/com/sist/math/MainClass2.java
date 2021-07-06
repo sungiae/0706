@@ -23,6 +23,14 @@ package com.sist.math;
  *                                           Integer.parseInt("30") ==> int a=30
  *                                           "true" ==> Boolean.parseBoolean("true") => true
  *                                           "10.5" ==> Double.parseDouble("10.5") => 10.5
+ *        int a=10;
+ *        String s="10"
+ *        
+ *        ==> a=>문자열 변환 String.valueOf(a) => "10"
+ *        ==> s=>정수형 변환 In
+ *        ?
+ *        ?
+ *        ?
  */
 public class MainClass2 {
 
